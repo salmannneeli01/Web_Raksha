@@ -1,5 +1,2 @@
 # Web_Raksha
-Prototype of an app called Web_Raksha.
-In the last page of ppt you can get the link for prototype please check once.
-I did this pitch for Start-A-Thon held by Devfolio.
-For more details please refer to ppt.
+[![salmannneeli01's GitHub | Stats](https://stats.quine.sh/salmannneeli01/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=salmannneeli01)
